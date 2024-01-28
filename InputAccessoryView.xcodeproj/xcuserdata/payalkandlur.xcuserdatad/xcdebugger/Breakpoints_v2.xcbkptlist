@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BC9A9E3-D723-4B20-9315-6040C76426A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15772C34-FBB6-44B7-99A8-C196990CCBA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputAccessoryView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15772C34-FBB6-44B7-99A8-C196990CCBA3 - 5976124a2d4cf1a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "15772C34-FBB6-44B7-99A8-C196990CCBA3 - 5976124a2d4cf146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A566658-667B-4795-983E-4095F54E825A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputAccessoryView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A566658-667B-4795-983E-4095F54E825A - 475ca2a2c7092ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+               <Location
+                  uuid = "8A566658-667B-4795-983E-4095F54E825A - 475ca2a2c7092bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03A3962E-4CD9-4CF9-A954-4AB1FCC8162F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputAccessoryView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03A3962E-4CD9-4CF9-A954-4AB1FCC8162F - 475ca2a2c709344b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "03A3962E-4CD9-4CF9-A954-4AB1FCC8162F - 475ca2a2c709346c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7DFA257-2215-459E-B583-7A51C6CBF4F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputAccessoryView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7DFA257-2215-459E-B583-7A51C6CBF4F7 - 5976124a2d4cf6ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2392">
+               </Location>
+               <Location
+                  uuid = "A7DFA257-2215-459E-B583-7A51C6CBF4F7 - 5976124a2d4cf6eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B72D079-953D-48AB-8289-D38920A3B368"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputAccessoryView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B72D079-953D-48AB-8289-D38920A3B368 - 5976124a2d4cf167"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2336">
+               </Location>
+               <Location
+                  uuid = "0B72D079-953D-48AB-8289-D38920A3B368 - 5976124a2d4cf104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputAccessoryView.ViewController.keyboardWillShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "InputAccessoryView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payalkandlur/InputAccessoryView/InputAccessoryView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
